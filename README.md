@@ -1,5 +1,5 @@
 # Step-by-Step WebGPU Graphics Programming (26) 
-## Create a torus Wireframe
+## Create a Peaks Surface
 
 This is the source code for the 26th part of a series YouTube videos on step-by-step WebGPU graphics programming.
 
